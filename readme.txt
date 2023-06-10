@@ -5,6 +5,7 @@ Tested up to:      6.1
 Stable tag:        1.0.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+Website:           https://whisqr.com
 
 This WordPress Plugin provides businesses with a group of Gutenburg Blocks and WooCommerce integrations that businesses can use to integrate their Loyalty Program with their WordPress website.
 
