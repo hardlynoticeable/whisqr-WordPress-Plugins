@@ -1,0 +1,34 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "whisqr/rewards",
+  "version": "1.0.0",
+  "title": "Rewards Listing",
+  "category": "whisqr",
+  "icon": "heart",
+  "description": "A simple block that provides customers with an easy way to register for your business's loyalty program.  Works best when placed in a column.  Add to your template, if the template you are using supports blocks, to have it appear on every page using that template.",
+  "supports": {
+    "html": false,
+    "color": {
+      "background": true,
+      "gradients": true
+    },
+    "typography": {
+      "fontSize": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontStyle": true,
+      "__experimentalFontWeight": true,
+      "__experimentalTextTransform": true,
+      "lineHeight": true
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true
+    }
+  },
+  "textdomain": "whisqr-rewards",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php"
+}

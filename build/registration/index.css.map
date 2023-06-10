@@ -1,0 +1,1 @@
+{"version":3,"file":"registration/index.css","mappings":";;;;AACA;CACC,eAAe;AAChB;;AAEA;CACC,cAAc;AACf,C","sources":["webpack://whisqr/./src/registration/editor.css"],"sourcesContent":["\n.block-editor-block-list__block {\n\tcursor: pointer;\n}\n\n.block-editor-block-list__block p {\n\tfont-size: 1em;\n}"],"names":[],"sourceRoot":""}

@@ -1,0 +1,23 @@
+.wp-block-whisqr-registration {
+	color: #1a1a1a;
+	padding: 2px;
+	padding-top: 5%;
+	height: 100%; 
+	text-align: center; 
+	cursor: pointer;
+}
+
+.wp-block-whisqr-registration p {
+	padding: 2px;
+	cursor: pointer;
+	font-size: 1em;
+	margin-bottom: 5px !important;
+}
+
+.wp-block-whisqr-registration img {
+	display: block;
+	width: 50%;
+	min-width: 120px;
+	margin-left: auto;
+	margin-right: auto;
+}

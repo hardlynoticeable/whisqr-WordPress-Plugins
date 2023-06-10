@@ -1,0 +1,21 @@
+{
+  "name": "whisqr",
+  "version": "1.0.0",
+  "description": "Integrate your loyalty program with your WordPress website and WooCommerce cart",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "keywords": [
+    "loyalty",
+    "rewards",
+    "punchcard"
+  ],
+  "author": "Whisqr Customer Engagement",
+  "license": "GPL-2.0-only",
+  "devDependencies": {
+    "@wordpress/scripts": "26.5.0"
+  }
+}

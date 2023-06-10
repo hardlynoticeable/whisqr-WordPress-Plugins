@@ -1,0 +1,29 @@
+.wp-block-whisqr-rewards {
+	color: #1a1a1a;
+	padding: 2px;
+	padding-top: 5%;
+	height: 100%; 
+	text-align: center; 
+	cursor: pointer;
+}
+
+.wp-block-whisqr-rewards p {
+	padding: 2px;
+	cursor: pointer;
+	font-size: 1em;
+	margin-bottom: 5px !important;
+}
+
+.wp-block-whisqr-rewards li {
+	padding: 2px;
+	cursor: pointer;
+	font-size: 1em;
+	margin-bottom: 5px !important;
+}
+
+.wp-block-whisqr-rewards h3 {
+	margin-block-start: 6px;
+	padding: 2px;
+	cursor: pointer;
+	margin-bottom: 5px !important;
+}

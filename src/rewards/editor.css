@@ -1,0 +1,8 @@
+
+.block-editor-block-list__block {
+	cursor: pointer;
+}
+
+.block-editor-block-list__block p {
+	font-size: 1em;
+}
