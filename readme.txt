@@ -11,21 +11,21 @@ This WordPress Plugin provides businesses with a group of Gutenburg Blocks and W
 
 == Description ==
 
-Whisqr Customer Engagement provides Loyalty Programs to small businesses for both their online and/or Brick-and-Mortar presence.  Business can provide customers with mobile friendly, or even paper/plastic, "punch cards" which are modelled after traditional punch cards, and which nearly all customers are familiar with.  
+Whisqr Customer Engagement provides Loyalty Programs to small businesses for both their online and/or Brick-and-Mortar presence.  Your business can provide customers with mobile friendly, or even paper/plastic, "punch cards" which are modelled after traditional punch cards, and which nearly all customers are already familiar with; and comfortable using.  
 
 The Whisqr Loyalty Program allows you to choose which "Profitable Customer Behaviours" that you want your business to reward your customers for engaging in.  Our platform's Administration Home Page will walk you through all of the options that we provide, so that you can choose which behaviors will benefit your business, how many punches you wish to reward customers for engaging in those behaviours, and what rewards you want to offer your customers for the punches that they collect.
 
-Additionally, we provide several other features, such as in-store display materials and customer-facing "storefront" display tablet software, and API for website/mobile app/POS system integration, detailed and insightful analytics, and much more.
+Additionally, we provide several other features, such as in-store display materials and customer-facing "storefront" display tablet software, an API for website/mobile app/POS system integration, detailed and insightful analytics, and much more.
 
-The Whisqr Loyalty Program has a free DIY offering for just-getting-started businesses which can be used for the first 200 active customers.  The free offering does not expire and is not limited to one location.
+The Whisqr Loyalty Program has a free DIY offering for just-getting-started businesses, which can be used for your first 200 active customers.  The free offering does not expire and, like our paid offerings, is not limited to one location.
 
 == Installation ==
 
-To install this plugin; download and activate it like any WordPress plugin.  This will add a menu option to the Administrative console labelled "whisqr".  In the console you will find instructions for signing up for your business's own Loyalty Program on the Whisqr website and to generate a pair of "keys" so that you can securely connect to your account.  
+To install this plugin; download and activate it like any WordPress plugin.  This will add a menu option to the Administrative console labelled "whisqr".  In the console you will find instructions for signing up for your business's own Loyalty Program on the Whisqr website, and to generate a pair of "keys" so that you can securely connect to your account.
 
-If you are using WooCommerce cart software; the plugin will automatically connect to your cart to reward your customers for their purchases.
+If you are using WooCommerce cart software; the plugin will automatically connect to your cart to reward your customers for their purchases.  You will be able to choose whether to reward customers for the value of their purchase, or simply for shopping in your store.  You will also be able to select other behaviours to reward your customers for, such as returning after a long absence or shopping frequently.  When needed, the platform will generate email notifications to your customers based on the behaviours and settings you select.
 
-The plugin also provides you with Gutenburg Blocks which you can add to your website, regardless of whether or not you are using a WooCommerce cart.  The blocks provided will provide your customers with the means to register for your loyalty program or redeem the rewards that you choose to offer.  
+The plugin also provides you with Gutenburg Blocks which you can add to your website, regardless of whether or not you are using a WooCommerce cart.  The blocks provided will provide your customers with the means to do things like register for your loyalty program, or redeem the rewards that you choose to offer.
 
 
 == Frequently Asked Questions ==
